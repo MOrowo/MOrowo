@@ -11,4 +11,4 @@
 
 ## Contacts 👀
 Personal Instagram - @mor_athipat  
-Personal Website - Comming soon. Currently working on it  
+Personal Website - Comming soon, Currently working on it.  
