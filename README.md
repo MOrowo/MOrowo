@@ -1,14 +1,14 @@
 # MOrowo - ATHIPAT BOONCHAMNAN
 
 ## FACTS ABOUT ME ✨
-- Hi, I called my self Morning.  
-- I'm a high school student, which working on many project mostly based on programming.  
-- I'm currently learning at Samsenwittayalai School. Bangkok, TH  
-- I'm also a big nerd.  
+- Hello, people called me "Morning"
+- I'm a high school student, which working on many project mostly based on Java, and Javascript   
+- I don't watch anime.
 
 ## Fun fact ⚡
-- I eat everything but vegeatble.  
+I'm 14 years old, the longest I've ever been 
 
 ## Contacts 👀
-Personal Instagram - @mor_athipat  
-Personal Website - Comming soon, Currently working on it.  
+Personal Instagram - @mor_athipat
+Personal Twitter - @mor_athipat
+Personal Website - https://MOrowo.me 
