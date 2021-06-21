@@ -14,7 +14,7 @@ Personal Twitter - @morowo6
 Personal Website - https://MOrowo.me/
 
 <hr>
-<p align="center" font-size=40>My stats</p>
+<p align="center" font-size=100>My stats</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=morowo&show_icons=true&theme=synthwave" alt="saqe" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morowo&layout=compact&theme=synthwave" alt="saqe" width="410" /></p>
