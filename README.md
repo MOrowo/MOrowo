@@ -1,9 +1,11 @@
 ### MOrowo - ATHIPAT BOONCHAMNAN
 
+Hello, it's me. My name is "Morning." I know it's a weird name, but it is what it is. I see computer programming as a future profession. I don't really have that many project ideas at the moment, so I might stick to what I think is cool as of now.
+
 ## FACTS ABOUT ME ✨
-- Hello, it's me. People called me "Morning".
-- I'm a high school student, which working on many project mostly based on Java and Javascript   
-- I don't watch anime.
+- I'm a sophomore
+- Learning computer science and related fields
+- I don't watch anime
 
 ## Fun fact ⚡
 I'm 15 years old, the longest I've ever been 
